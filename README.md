@@ -1,7 +1,5 @@
 # FakeRoot
 
-Author : •Mr.B41B4L.X•
-
 cara Menggunakan
 
 pkg install git
